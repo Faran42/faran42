@@ -3,10 +3,11 @@
 
 <p align="left">Olá, sou um desenvolvedor Javascript com foco na criação de aplicações mobile e sistemas web através da framework ReactJS (React Native e Expo também), a qual possuo 4 anos de experiência. Somando a isso sou um profissional que acredita que a disseminação do conhecimento fortalece a equipe e a si mesmo, além disso, prezo por uma comunicação de transparência bilateral e feedback continuo.</p>
 
-<div align="center" style="margin-bottom:'100px'">
+<!-- <div align="center" style="margin-bottom:'100px'">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=faran42&theme=radical&mode=weekly" />
  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=faran42&show_icons=true&theme=radical&layout=compact" />
 </div>
+ -->
  
 ## My Skills
 
